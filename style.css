@@ -1,0 +1,157 @@
+
+h1{
+  color: rgb(0, 92, 2);
+  margin-left: 100px;
+}
+h2{
+  color: rgb(0, 92, 2);
+  margin-left: 50px;
+}
+span0{
+  color: rgb(0, 92, 2);
+  margin-left: 50px;
+  font-weight:bold;
+  font-style: italic;
+}
+button.rst{
+  color:white;
+  background-color: rgb(23, 205, 13);
+  border:none;
+  border-radius: 2px;
+  height: 25px;
+  width: 60px;
+}
+button.sub{
+  color:white;
+  margin-left: 10px;
+  background-color: rgb(205, 0, 0);
+  border: none;
+  border-radius: 2px;
+  height: 25px;
+  width: 60px;
+}
+label.fn{
+  color:rgb(255, 246, 114);
+  font-weight:bold;
+  font-family: Arial;
+}
+label.ln{
+  color:rgb(255, 246, 114);
+  font-weight: bold;
+  font-family: Arial;
+}
+label.eml{
+  color:rgb(255, 251, 0);
+  margin-right: 30px;
+  font-weight: bold;
+  font-family: Arial;
+}
+label.psw{
+  color:rgb(255, 246, 114);
+  margin-right: 5px;
+  font-weight: bold;
+  font-family: Arial;
+}
+label.dte{
+  color:rgb(251, 255, 0);
+  margin-right: 5px;
+  font-weight: bold;
+  font-family: Arial;
+}
+label.phn{
+  color:rgb(255, 251, 0);
+  margin-right: 5px;
+  font-weight: bold;
+  font-family: Arial;
+}
+label.gnd{
+  color:rgb(255, 251, 0);
+  margin-right: 5px;
+  font-weight: bold;
+  font-family: Arial;
+}
+label.pymt{
+  color:rgb(255, 251, 0);
+  margin-right: 5px;
+  font-weight: bold;
+  font-family: Arial;
+}
+input.fname{
+  border: none;
+  color: rgb(0, 0, 217);
+  font-weight:bold;
+  text-align: center;
+  border-radius: 5px;
+  height: 25px;
+  width: 130px;
+}
+input.lname{
+  border: none;
+  color: rgb(0, 0, 217);
+  font-weight:bold;
+  text-align: center;
+  border-radius: 5px;
+  height: 25px;
+  width: 130px;
+}
+input.eml{
+  border: none;
+  font-weight:bold;
+  text-align:center;
+  border-radius:5px;
+  color: rgb(0, 0, 217);
+  height: 25px;
+  width: 200px;
+}
+input.psw{
+  border: none;
+  font-weight:bold;
+  text-align:center;
+  border-radius:5px;
+  color: rgb(0, 0, 217);
+  height: 25px;
+  width: 200px;
+}
+
+input.phn{
+  border: none;
+  font-weight:bold;
+  text-align:center;
+  border-radius:5px;
+  color: rgb(0, 0, 217);
+  height: 25px;
+  width: 200px;
+}
+input.dte{
+  border: none;
+  font-weight:bold;
+  text-align:center;
+  border-radius:5px;
+  color: rgb(0, 0, 217);
+  height: 25px;
+  width: 100px;
+}
+input.male{
+  border: none;
+  color: rgb(0, 0, 217);
+}
+input.female{
+  border: none;
+  color: rgb(0, 0, 217);
+}
+input.others{
+  border: none;
+  color: rgb(0, 0, 217);
+}
+select.slt{
+  color:blue;
+}
+div.whole{
+  margin-left: 400px;
+}
+body {
+    background-image: url('hp.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
